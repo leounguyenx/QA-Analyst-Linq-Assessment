@@ -2,7 +2,7 @@ This repository contains the documentation and artifacts related to the Home Ass
 
 ## Contents
 
-* **Bug Report**: A folder containing detailed bug reports.
+* **Bug Report**: A folder containing bug attachments.
 * **bugs.md**: A markdown file summarizing the bugs found during testing.
 * **postman-notes.md**: Notes and observations related to API testing using Postman.
 * **Process Suggestion and Notes.md**: Outlines the proposed QA testing process and exploratory notes

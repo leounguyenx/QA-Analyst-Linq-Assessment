@@ -10,4 +10,4 @@ This repository contains the documentation and artifacts related to the Home Ass
 
 ## Contact
 
-For further inquiries, please contact **Leo Nguyen** at [leounguyen75@gmail.com](leounguyen75@gmail.com).
+For further inquiries, please contact **Leo Nguyen** at [leounguyen75@gmail.com](leounguyen75@gmail.com) or [Leo Nguyen](https://linqapp.com/leo_nguyen7?r=link).

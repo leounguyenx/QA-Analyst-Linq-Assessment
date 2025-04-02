@@ -38,7 +38,7 @@ Depend on the the product phases, end-to-end/user acceptance and regression test
 - Automate key user flows to ensure critical business processes function correctly.
 - Develop test scripts that are maintainable and scalable.
 
-### 3.3) Performance Testing
+#### 3.3) Performance Testing
 - Conduct load, stress, and performance testing to evaluate the system's responsiveness and stability under various conditions.
 
 ### 4) Applying CI/CD
